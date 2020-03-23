@@ -1,0 +1,11 @@
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csprojAssemblyReference.cache
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\Julio\Desktop\Angular\devnet\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
